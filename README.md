@@ -1,9 +1,9 @@
 # Panian-Word-Generator-NLP-
-##Our Methodology
+### Our Methodology
 Since there exists a plethora of root words and their appropriate suffixes and rules, we
 decided to start with a small subset of the various sutras that can perform and convey one
 particular “abhipraay” (of being worthy).
-###How the Aṣṭādhyāyī does this is as follows:
+### How the Aṣṭādhyāyī does this is as follows:
   1. Take a Dhatu from the Dhatupaath and remove the IT markers
   2. Add the suffix aniyar to it after removing its IT markers
   3. Combine the two using sandhi rules
