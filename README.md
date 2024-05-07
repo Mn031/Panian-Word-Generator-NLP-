@@ -1,5 +1,21 @@
  # Panian-Word-Generator-NLP-
-### Our Methodology
+## Why We came up with the project
+Pāṇini achieved with his grammar what is called “non-lossy compression” in
+computer science, in the sense that he was able to create the original words and
+forms from a very compressed set of rules. Using a simple and intuitive set of rules,
+we can arrive at very complex words signifying an array of meanings. These rules
+also make the generation of new words and their verification very easy. For example,
+given a root word with the “abhipray” or the intention of speaking in mind. Then run it
+through the Aṣṭādhyāyī to find a suffix that is most relevant to the “abhipray”. We
+have the intended word. We can employ the same mechanism while verification of
+new words to see if the word we have matches the one we constructed using the
+above mechanism. Since the entire process has an algorithmic structure and
+efficiency to it, we decided to test for ourselves whether we could code the sutras in
+a computer in a union of two distant but somehow related disciplines.
+Coding the Aṣṭādhyāyī with all its interdependencies and _ is a very arduous task.
+Yet to accomplish what we started out to do and do justice to the magnificence of the
+text we coded the IT Markers and the affix “aniyar” which means (to be) “worthy of”.
+## Our Methodology
 Since there exists a plethora of root words and their appropriate suffixes and rules, we
 decided to start with a small subset of the various sutras that can perform and convey one
 particular “abhipraay” (of being worthy).
