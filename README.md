@@ -8,7 +8,7 @@ particular “abhipraay” (of being worthy).
   2. Add the suffix aniyar to it after removing its IT markers
   3. Combine the two using sandhi rules
   4. Accommodate for certain changes after the Sandhi.
-###The various nuances to this are as follows
+### The various nuances to this are as follows
  The various nuances to this are as follows
  1. The Dhatus in the Dhatupaath are not listed according to their Dhatu but rather with
  IT markers for various uses.
